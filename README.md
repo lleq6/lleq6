@@ -1,7 +1,7 @@
 <div align="center">
   <a href="https://github.com/lleq6">
-  <img height="200px" src="https://github-readme-stats.vercel.app/api?username=lleq6&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lleq6&layout=compact"/>
+  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=lleq6&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lleq6&layout=compact"/>
 </div>
 
 # Expertise
