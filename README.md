@@ -4,7 +4,10 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lleq6&layout=compact"/>
 </div>
 
-## Programming Languages
+# Expertise
+`Database`, `Object Oriented Programming`, `Reverse Engineering`, `Software Testing`
+
+# Programming Languages
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" height="32px" alt="C">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" height="32px" alt="C++">
@@ -15,7 +18,13 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="32px" alt="Python">
 </div>
 
-## Databases
+# Frameworks
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-original.svg" height="32px" alt=".Net Framwork">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" height="32px" alt="Next.js">
+</div>
+
+# Databases
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" height="32px" alt="Firebase">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="32px" alt="Microsoft SQL Server">
@@ -24,7 +33,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" height="32px" alt="SQLite">
 </div>
 
-## Other
+# Other
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/json/json-original.svg" height="32px" alt="JSON">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/xml/xml-original.svg" height="32px" alt="XML">
@@ -33,6 +42,9 @@
 # Tools
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" height="32px" alt="Android Studio">
+  <img src="https://skillicons.dev/icons?i=github" height="32px" alt="GitHub">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" height="32px" alt="Node.js">
+  <img src="https://hex-rays.com/favicon/android-icon-192x192.png" height="32px" alt="IDA">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" height="32px" alt="Visual Studio">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" height="32px" alt="Visual Studio Code">
   <img src="https://raw.githubusercontent.com/boundary/wireshark/refs/heads/master/image/wsicon1024.png" height="32px" alt="Wireshark">
