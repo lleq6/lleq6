@@ -12,7 +12,7 @@
   <div align="center">
     <table>
       <tr>
-        <td align="center" width="50%">
+        <td align="center" width="100%" colspan="2">
           <h2 align="center">Programming Languages</h2>
             <div align="center">
               <table>
@@ -55,7 +55,11 @@
                 </tr>
               </table>
             </div>
-            <h2 align="center">Frameworks</h2>
+        </td>
+      </tr>
+      <tr>
+        <td align="center" width="100%" colspan="2">
+          <h2 align="center">Frameworks</h2>
             <div align="center">
               <table>
                 <tr>
@@ -73,6 +77,8 @@
               </table>
             </div>
         </td>
+      </tr>
+      <tr>
         <td align="center" width="50%">
           <h2 align="center">Databases</h2>
           <div align="center">
@@ -106,6 +112,8 @@
               </tr>
             </table>
           </div>
+        </td>
+        <td align="center" width="50%">
           <h2 align="center">Other</h2>
           <div align="center">
             <table>
@@ -125,7 +133,7 @@
           </div>
         </td>
       </tr>
-      <tr col>
+      <tr>
         <td align="center" width="100%" colspan="2">
           <h1 align="center">Tools</h1>
           <div align="center">
