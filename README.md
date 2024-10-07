@@ -58,7 +58,7 @@
         </td>
       </tr>
       <tr>
-        <td align="center" width="100%" colspan="2">
+        <td align="center" width="1024px" colspan="2">
           <h2 align="center">Frameworks</h2>
             <div align="center">
               <table>
@@ -134,7 +134,7 @@
         </td>
       </tr>
       <tr>
-        <td align="center" width="100%" colspan="2">
+        <td align="center" width="1024px" colspan="2">
           <h1 align="center">Tools</h1>
           <div align="center">
             <table>
