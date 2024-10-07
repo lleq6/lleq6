@@ -14,66 +14,66 @@
       <tr>
         <td align="center" width="1024px">
           <h2 align="center">Programming Languages</h2>
-            <div align="center">
-              <table>
-                <tr>
-                  <td>
-                    <a href="https://www.w3schools.com/c/" target="_blank" rel="noreferrer">
-                      <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" height="30px" alt="C" title="C"></code>
-                    </a>
-                  </td>
-                  <td>
-                    <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-                      <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" height="30px" alt="C++" title="C++"></code>
-                    </a>
-                  </td>
-                  <td>
-                    <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
-                      <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" height="30px" alt="C#" title="C#"></code>
-                    </a>
-                  </td>
-                  <td>
-                    <a href="[https://www.w3schools.com/cs/](https://www.w3schools.com/html/)" target="_blank" rel="noreferrer">
-                      <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height="30px" alt="HTML5" title="HTML5"></code>
-                    </a>
-                  </td>
-                  <td>
-                    <a href="https://www.java.com/en/" target="_blank" rel="noreferrer">
-                      <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height="30px" alt="Java" title="Java"></code>
-                    </a>
-                  </td>
-                  <td>
-                    <a href="https://www.w3schools.com/js/" target="_blank" rel="noreferrer">
-                      <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="30px" alt="Javascript" title="Javascript"></code>
-                    </a>
-                  </td>
-                  <td>
-                    <a href="https://www.python.org/" target="_blank" rel="noreferrer">
-                      <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="30px" alt="Python" title="Python"></code>
-                    </a>
-                  </td>
-                </tr>
-              </table>
-            </div>
+          <div align="center">
+            <table>
+              <tr>
+                <td>
+                  <a href="https://www.w3schools.com/c/" target="_blank" rel="noreferrer">
+                    <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" height="30px" alt="C" title="C"></code>
+                  </a>
+                </td>
+                <td>
+                  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
+                    <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" height="30px" alt="C++" title="C++"></code>
+                  </a>
+                </td>
+                <td>
+                  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
+                     <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" height="30px" alt="C#" title="C#"></code>
+                  </a>
+                </td>
+                <td>
+                  <a href="[https://www.w3schools.com/cs/](https://www.w3schools.com/html/)" target="_blank" rel="noreferrer">
+                    <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height="30px" alt="HTML5" title="HTML5"></code>
+                  </a>
+                </td>
+                <td>
+                  <a href="https://www.java.com/en/" target="_blank" rel="noreferrer">
+                    <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height="30px" alt="Java" title="Java"></code>
+                  </a>
+                </td>
+                <td>
+                  <a href="https://www.w3schools.com/js/" target="_blank" rel="noreferrer">
+                    <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="30px" alt="Javascript" title="Javascript"></code>
+                  </a>
+                </td>
+                <td>
+                  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
+                    <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="30px" alt="Python" title="Python"></code>
+                  </a>
+                </td>
+              </tr>
+            </table>
+          </div>
         </td>
         <td align="center" width="1024px" colspan="2">
           <h2 align="center">Frameworks</h2>
-            <div align="center">
-              <table>
-                <tr>
-                  <td>
-                    <a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer">
-                      <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-original.svg" height="30px" alt=".Net Framework" title=".Net Framework"></code>
-                    </a>
-                  </td>
-                  <td>
-                    <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-                      <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" height="30px" alt="Next.js" title="Next.js"></code>
-                    </a>
-                  </td>
-                </tr>
-              </table>
-            </div>
+          <div align="center">
+            <table>
+              <tr>
+                <td>
+                  <a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer">
+                    <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-original.svg" height="30px" alt=".Net Framework" title=".Net Framework"></code>
+                  </a>
+                </td>
+                <td>
+                  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
+                    <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" height="30px" alt="Next.js" title="Next.js"></code>
+                  </a>
+                </td>
+              </tr>
+            </table>
+          </div>
         </td>
       </tr>
       <tr>
@@ -133,7 +133,7 @@
       </tr>
       <tr>
         <td align="center" width="1024px" colspan="2">
-          <h1 align="center">Tools</h1>
+          <h2 align="center">Tools</h2>
           <div align="center">
             <table>
               <tr>
