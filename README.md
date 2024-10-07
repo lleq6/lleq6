@@ -181,14 +181,20 @@
   <div align="center">
     <table>
       <tr>
-        <td>
+        <td align="center" width="50%">
           <a href="https://github.com/lleq6" target="_blank">
-            <img height="180px" src="https://readme-stats-plum-two.vercel.app/api?username=lleq6&show_icons=true&include_all_commits=true&theme=dark&count_private=true&bg_color=242121&border_color=B266FF&icon_color=B266FF"/>
+            <img width="100%" src="https://readme-stats-plum-two.vercel.app/api?username=lleq6&show_icons=true&include_all_commits=true&theme=dark&count_private=true&bg_color=202225&border_color=202225&icon_color=B266FF"/>
+          </a>
+          <a href="https://github.com/lleq6" target="_blank">
+            <img width="100%" src="https://readme-stats-plum-two.vercel.app/api/top-langs/?username=lleq6&theme=dark&bg_color=202225&layout=compact&border_color=202225&langs_count=10"/>
           </a>
         </td>
-        <td>
+        <td align="center" width="50%">
           <a href="https://github.com/lleq6" target="_blank">
-            <img height="180px" src="https://readme-stats-plum-two.vercel.app/api/top-langs/?username=lleq6&theme=dark&bg_color=242121&layout=compact&border_color=B266FF&langs_count=10"/>
+            <img width="100%" src="https://github-contributor-stats.vercel.app/api?username=lleq6&limit=5&theme=dark&bg_color=202225&border_color=202225&hide_border=true&stroke=202225&combine_all_yearly_contributions=true"/>
+          </a>
+          <a href="https://github.com/lleq6" target="_blank">
+            <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=lleq6&theme=dark&background=202225&border_color=202225&hide_border=true&stroke=202225"/>
           </a>
         </td>
       </tr>
