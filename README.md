@@ -19,37 +19,37 @@
                 <tr>
                   <td>
                     <a href="https://www.w3schools.com/c/" target="_blank" rel="noreferrer">
-                      <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" height="32px" alt="C" title="C"></code>
+                      <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" height="30px" alt="C" title="C"></code>
                     </a>
                   </td>
                   <td>
                     <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-                      <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" height="32px" alt="C++" title="C++"></code>
+                      <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" height="30px" alt="C++" title="C++"></code>
                     </a>
                   </td>
                   <td>
                     <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
-                      <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" height="32px" alt="C#" title="C#"></code>
+                      <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" height="30px" alt="C#" title="C#"></code>
                     </a>
                   </td>
                   <td>
                     <a href="[https://www.w3schools.com/cs/](https://www.w3schools.com/html/)" target="_blank" rel="noreferrer">
-                      <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height="32px" alt="HTML5" title="HTML5"></code>
+                      <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height="30px" alt="HTML5" title="HTML5"></code>
                     </a>
                   </td>
                   <td>
                     <a href="https://www.java.com/en/" target="_blank" rel="noreferrer">
-                      <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height="32px" alt="Java" title="Java"></code>
+                      <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height="30px" alt="Java" title="Java"></code>
                     </a>
                   </td>
                   <td>
                     <a href="https://www.w3schools.com/js/" target="_blank" rel="noreferrer">
-                      <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="32px" alt="Javascript" title="Javascript"></code>
+                      <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="30px" alt="Javascript" title="Javascript"></code>
                     </a>
                   </td>
                   <td>
                     <a href="https://www.python.org/" target="_blank" rel="noreferrer">
-                      <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="32px" alt="Python" title="Python"></code>
+                      <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="30px" alt="Python" title="Python"></code>
                     </a>
                   </td>
                 </tr>
@@ -61,12 +61,12 @@
                 <tr>
                   <td>
                     <a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer">
-                      <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-original.svg" height="32px" alt=".Net Framework" title=".Net Framework"></code>
+                      <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-original.svg" height="30px" alt=".Net Framework" title=".Net Framework"></code>
                     </a>
                   </td>
                   <td>
                     <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-                      <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" height="32px" alt="Next.js" title="Next.js"></code>
+                      <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" height="30px" alt="Next.js" title="Next.js"></code>
                     </a>
                   </td>
                 </tr>
@@ -80,27 +80,27 @@
               <tr>
                 <td>
                   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-                    <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" height="32px" alt="Firebase" title="Firebase"></code>
+                    <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" height="30px" alt="Firebase" title="Firebase"></code>
                   </a>
                 </td>
                 <td>
                   <a href="https://www.microsoft.com/en-us/sql-server/" target="_blank" rel="noreferrer">
-                    <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="32px" alt="Microsoft SQL Server" title="Microsoft SQL Server"></code>
+                    <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="30px" alt="Microsoft SQL Server" title="Microsoft SQL Server"></code>
                   </a>
                 </td>
                 <td>
                   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-                    <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" height="32px" alt="MySQL" title="MySQL"></code>
+                    <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" height="30px" alt="MySQL" title="MySQL"></code>
                   </a>
                 </td>
                 <td>
                   <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
-                    <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" height="32px" alt="PostgreSQL" title="PostgreSQL"></code>
+                    <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" height="30px" alt="PostgreSQL" title="PostgreSQL"></code>
                   </a>
                 </td>
                 <td>
                   <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
-                    <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" height="32px" alt="SQLite" title="SQLite"></code>
+                    <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" height="30px" alt="SQLite" title="SQLite"></code>
                   </a>
                 </td>
               </tr>
@@ -112,12 +112,12 @@
               <tr>
                 <td>
                   <a href="https://www.w3schools.com/js/js_json_intro.asp" target="_blank" rel="noreferrer">
-                    <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/json/json-original.svg" height="32px" alt="JSON" title="JSON"></code>
+                    <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/json/json-original.svg" height="30px" alt="JSON" title="JSON"></code>
                   </a>
                 </td>
                 <td>
                   <a href="https://www.w3schools.com/xml/" target="_blank" rel="noreferrer">
-                    <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/xml/xml-original.svg" height="32px" alt="XML" title="XML"></code>
+                    <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/xml/xml-original.svg" height="30px" alt="XML" title="XML"></code>
                   </a>
                 </td>
               </tr>
@@ -133,42 +133,42 @@
               <tr>
                 <td>
                   <a href="https://developer.android.com/" target="_blank" rel="noreferrer">
-                    <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" height="32px" alt="Android Studio" title="Android Studio"></code>
+                    <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" height="30px" alt="Android Studio" title="Android Studio"></code>
                   </a>
                 </td>
                 <td>
                   <a href="https://www.w3schools.com/js/js_json_intro.asp" target="_blank" rel="noreferrer">
-                    <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" height="32px" alt="Figma" title="Figma"></code>
+                    <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" height="30px" alt="Figma" title="Figma"></code>
                   </a>
                 </td>
                 <td>
                   <a href="https://github.com/" target="_blank" rel="noreferrer">
-                    <code><img src="https://skillicons.dev/icons?i=github" height="32px" alt="GitHub" title="GitHub"></code>
+                    <code><img src="https://skillicons.dev/icons?i=github" height="30px" alt="GitHub" title="GitHub"></code>
                   </a>
                 </td>
                 <td>
                   <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
-                    <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" height="32px" alt="Node.js" title="Node.js"></code>
+                    <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" height="30px" alt="Node.js" title="Node.js"></code>
                   </a>
                 </td>
                 <td>
                   <a href="https://hex-rays.com/" target="_blank" rel="noreferrer">
-                    <code><img src="https://hex-rays.com/favicon/android-icon-192x192.png" height="32px" alt="IDA" title="IDA (Hex-Rays)"></code>
+                    <code><img src="https://hex-rays.com/favicon/android-icon-192x192.png" height="30px" alt="IDA" title="IDA (Hex-Rays)"></code>
                   </a>
                 </td>
                 <td>
                   <a href="https://visualstudio.microsoft.com/" target="_blank" rel="noreferrer">
-                    <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" height="32px" alt="Visual Studio" title="Visual Studio"></code>
+                    <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" height="30px" alt="Visual Studio" title="Visual Studio"></code>
                   </a>
                 </td>
                 <td>
                   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
-                    <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" height="32px" alt="Visual Studio Code" title="Visual Studio Code"></code>
+                    <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" height="30px" alt="Visual Studio Code" title="Visual Studio Code"></code>
                   </a>
                 </td>
                 <td>
                   <a href="https://www.wireshark.org/" target="_blank" rel="noreferrer">
-                    <code><img src="https://raw.githubusercontent.com/boundary/wireshark/refs/heads/master/image/wsicon1024.png" height="32px" alt="Wireshark" title="Wireshark"></code>
+                    <code><img src="https://raw.githubusercontent.com/boundary/wireshark/refs/heads/master/image/wsicon1024.png" height="30px" alt="Wireshark" title="Wireshark"></code>
                   </a>
                 </td>
               </tr>
