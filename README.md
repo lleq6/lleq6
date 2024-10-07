@@ -206,5 +206,10 @@
       </tr>
     </table>
   </div>
+  <div align="center">
+    <a href="https://github.com/lleq6" target="_blank">
+      <img src="https://visitcount.itsvg.in/api?id=lleq6&label=Profile%20Views&color=6&icon=3&pretty=true"/>
+    </a>
+  </div>
 </body>
 </html>
