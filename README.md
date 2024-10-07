@@ -12,7 +12,7 @@
   <div align="center">
     <table>
       <tr>
-        <td align="center" width="1024px" colspan="2">
+        <td align="center" width="1024px">
           <h2 align="center">Programming Languages</h2>
             <div align="center">
               <table>
@@ -56,8 +56,6 @@
               </table>
             </div>
         </td>
-      </tr>
-      <tr>
         <td align="center" width="1024px" colspan="2">
           <h2 align="center">Frameworks</h2>
             <div align="center">
