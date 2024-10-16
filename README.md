@@ -159,7 +159,7 @@
                 </td>
                 <td>
                   <a href="https://hex-rays.com/" target="_blank" rel="noreferrer">
-                    <code><img src="https://hex-rays.com/favicon/android-icon-192x192.png" height="30px" alt="IDA" title="IDA (Hex-Rays)"></code>
+                    <code><img src="https://hex-rays.com/hubfs/Ico-logo.png" height="30px" alt="IDA" title="IDA (Hex-Rays)"></code>
                   </a>
                 </td>
                 <td>
